@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\work\projects\projects\sudokucube\sudokucube\source.cpp(1149): warning C4018: '<': signed/unsigned mismatch
+e:\work\projects\projects\sudokucube\sudokucube\source.cpp(1645): warning C4018: '<': signed/unsigned mismatch
+  SudokuCube.vcxproj -> E:\work\Projects\projects\SudokuCube\Debug\SudokuCube.exe
+  SudokuCube.vcxproj -> E:\work\Projects\projects\SudokuCube\Debug\SudokuCube.pdb (Full PDB)
